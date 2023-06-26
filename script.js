@@ -1,5 +1,5 @@
 //your code here 
-document.getElementById("btn").addEventListener("click", swapTheme);
+document.getElementById("swap").addEventListener("click", swapTheme);
 function swapTheme() {
     var app = document.getElementById("app");
     var button = document.getElementById("swap");
